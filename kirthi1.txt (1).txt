@@ -1,0 +1,3 @@
+This is a confidential message.
+Only the authorized key owner can decrypt this.
+CNS Assignment – End-to-End Encryption Demonstration.
